@@ -114,6 +114,7 @@ footer {
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
     color: #222!important;
+    border-bottom: 2px solid #242A30;
 }
 
 
@@ -134,8 +135,7 @@ footer {
     }
 
     .navbar-default.affix {
-        /*border-color: rgba(34,34,34,.05);*/
-        background-color: #fff;
+        /*background-color: #fff;*/
     }
 
     /*nav link color - purple*/
