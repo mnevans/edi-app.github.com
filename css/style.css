@@ -509,3 +509,23 @@ body {
   display: flex;
   align-items: center;
 }
+
+.wrapper {
+  position: relative;
+}
+
+.wrapper .circle-icon {
+  position: absolute;
+  top: 62px;
+  left: 155px;
+  font-size: 27px;
+  color: teal;
+}
+
+.wrapper .heart-icon {
+  position: absolute;
+  top: 210px;
+  left: 187px;
+  font-size: 25px;
+  color: white;
+}
