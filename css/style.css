@@ -78,7 +78,7 @@ footer {
 }
 
 .navbar-default {
-    background-color: #D6CBD8;
+    background-color: transparent;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -120,7 +120,7 @@ footer {
 
 @media(min-width:768px) {
     .navbar-default {
-        background-color: #D6CBD8;
+        background-color: transparent;
     }
 
     .navbar-default .nav > li>a,
